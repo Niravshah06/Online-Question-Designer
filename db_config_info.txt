@@ -1,0 +1,4 @@
+username=root
+password=""
+datbasetype=mysql
+host address-localhost
